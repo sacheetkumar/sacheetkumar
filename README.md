@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a Full Stack Developer
+Hi, I'm Sacheet 👋
+I'm a full-stack developer who enjoys building products, experimenting with ideas, and learning by creating. Currently focused on modern web technologies, open source, and building things that solve real problems.
 
 
 ## 🌐 Socials:
